@@ -60,7 +60,8 @@ This page distills two key projects from my journey with **CS6460**.
 | Initial sketches | <img src="/assets/images/fp_sketch_1.jpg" alt="Lo-fi sketch 1"> |
 | Paper flow | <img src="/assets/images/fp_sketch_2.jpg" alt="Lo-fi sketch 2"> |
 | First interactive demo (v0.1) | <video controls src="https://TODO-link-to-first-prototype.mp4" width="100%"></video> |
-| User-test session excerpt | <video controls src="https://TODO-link-to-user-test-snippet.mp4" width="100%"></video> |
+| User-test session 1 (Anthony) | <video controls src="https://drive.google.com/file/d/1S5JRfrL8X5Ww5wL8oNz4HQzHXU6EsVPF/view?usp=sharing
+" width="100%"></video> |
 
 ### How Insights Shaped the Final Prototype
 1. **Navigation clarity** — replaced the ambiguous “◀︎ back” with a persistent bottom-nav bar.  
@@ -68,7 +69,7 @@ This page distills two key projects from my journey with **CS6460**.
 3. **Visual hierarchy** — increased contrast on primary CTAs, leveraged colour-blind-safe palette.
 
 > **Final interactive prototype (v1.0)**  
-> 🎬 [Watch demo video](https://TODO-link-to-final-prototype.mp4) | 🔗 [Try it live](https://TODO-figma-final-link)
+> 🎬 [Watch demo video](https://drive.google.com/file/d/1tjnfJCwfS-T7Tn-sCvOENa9TfflNVdVo/view?usp=sharing) | 🔗 [Try it live](https://github.com/qianjay10/ChessEdu)
 
 ---
 
