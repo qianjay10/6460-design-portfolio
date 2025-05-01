@@ -4,13 +4,13 @@ layout: default                # uses the Cayman's single-column layout
 
 <link rel="stylesheet" href="/assets/css/custom.css"> <!-- optional custom tweaks -->
 
-# 👋 Hi, I’m **Jay** — welcome to my Design Portfolio
+# 👋 Hi, I’m **Jiajie Qian** — welcome to my EdTech Design Portfolio
 
-This page distills two key projects from our **(Course name / Semester)**.
+This page distills two key projects from my journey with **(CS6460)**.
 
 ---
 
-## 🌟 Group Project — “Project Title”
+## 🌟 Group Project — “Better Khan Academy”
 
 ![Group project cover](/assets/images/gp_cover.png)
 
@@ -18,15 +18,19 @@ This page distills two key projects from our **(Course name / Semester)**.
 * **Problem** — *TODO: 1-sentence problem statement.*
 * **Our solution** — *TODO: headline idea in plain English.*
 
-### Conference-style Highlights
+### What I built
+* **The game feature** — A gamified approach to community learning, allowing users to benchmark their learned knowledge/prior knowledge against global users in a specific topic. Access by clicking the ***Game Mode*** button at the starting page!
+* **Snapshot** — (/assets/images/game_features.png)
+
+### Presentation Highlights
 - **Outcome 1** — *TODO: 1-line highlight.*  
 - **Outcome 2** — *TODO.*
 - **Outcome 3** — *TODO.*
 
 | Resource | Link |
 | :------: | :--- |
-| 📑 Slides (10 min) | [View the deck](https://TODO-link-to-google-slides) |
-| 🖌️ Figma prototype | [Open in Figma](https://TODO-figma-link) |
+| 📑 Slides (10 min presentation + Demo video at the end) | [View the deck](https://docs.google.com/presentation/d/19Vx45GSk4PnLu-Zgq7AKpf89tS0W86gj/edit?usp=sharing&ouid=104377980141384171278&rtpof=true&sd=true) |
+| 🖌️ Figma prototype | [Open in Figma](https://www.figma.com/proto/zEMZJRlcoQIOaympr41agZ/4660-Mid-Fidelity-Prototype?node-id=2-10&p=f&t=ynHbvPr5ezs9kegC-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A10&show-proto-sidebar=1) |
 
 ---
 
