@@ -20,7 +20,7 @@ This page distills two key projects from my journey with **(CS6460)**.
 
 ### What I built
 * **The game feature** — A gamified approach to community learning, allowing users to benchmark their learned knowledge/prior knowledge against global users in a specific topic. Access by clicking the ***Game Mode*** button at the starting page!
-* **Snapshot** — (/assets/images/game_features.png)
+* **Snapshot** — ![My Feature](/assets/images/game_features.png)
 
 ### Presentation Highlights
 - **Outcome 1** — *TODO: 1-line highlight.*  
