@@ -40,7 +40,8 @@ This page distills two key projects from my journey with **CS6460**.
 
 ## "CHESSEDU"
 
-![Group project cover](/assets/images/chessedu_p2_landing.png)
+![My project cover](/assets/images/chessedu_p2_landing.png)
+![My project cover 2](/assets/images/chessedu_p2_.png)
 
 ### Prototype Evolution
 
