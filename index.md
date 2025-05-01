@@ -44,12 +44,12 @@ This page distills two key projects from my journey with **CS6460**.
 
 | Stage | Visual |
 | ----- | ------ |
-| Initial sketches | ![initial_sketches](assets/images/initial_sketches.png) |
-| Introduction Doc | ![intro_doc](https://docs.google.com/document/d/1FQniS35IkPPxhBpn-26hRQxqIL-Kpr-f0bRZCBMZKHA/edit?usp=sharing) |
-| First interactive demo (v0.1) | ![Prototype 1 Demo](https://drive.google.com/file/d/131RHLNPq-GF7GqjeAd1SPN8QeVNTJcfX/view?usp=drive_link) |
-| User-test session 1 (Anthony) | ![User test 1](https://drive.google.com/file/d/1S5JRfrL8X5Ww5wL8oNz4HQzHXU6EsVPF/view?usp=sharing) |
-| User-test session 2 (Steve) | ![User test 2](https://drive.google.com/file/d/127nfDI0dcQh7KY3QuZ82QfEY25M5hY3R/view?usp=sharing) |
-| User-test session 3 (Cole) | ![User test 3](https://drive.google.com/file/d/1lK1c4L3Wk3d6t0E8Pfg93I0ctZVDpYfr/view?usp=sharing) |
+| Initial sketches | [Initial Sketches](assets/images/initial_sketches.png) |
+| Introduction Doc | [Intro Doc](https://docs.google.com/document/d/1FQniS35IkPPxhBpn-26hRQxqIL-Kpr-f0bRZCBMZKHA/edit?usp=sharing) |
+| First interactive demo (v0.1) | [Prototype 1 Demo](https://drive.google.com/file/d/131RHLNPq-GF7GqjeAd1SPN8QeVNTJcfX/view?usp=drive_link) |
+| User-test session 1 (Anthony) | [User test 1](https://drive.google.com/file/d/1S5JRfrL8X5Ww5wL8oNz4HQzHXU6EsVPF/view?usp=sharing) |
+| User-test session 2 (Steve) | [User test 2](https://drive.google.com/file/d/127nfDI0dcQh7KY3QuZ82QfEY25M5hY3R/view?usp=sharing) |
+| User-test session 3 (Cole) | [User test 3](https://drive.google.com/file/d/1lK1c4L3Wk3d6t0E8Pfg93I0ctZVDpYfr/view?usp=sharing) |
 
 ### How User Test Insights Shaped the Final Prototype
 1. "Even though the achievements section is just a placeholder, users have expressed that they liked the feature for its purpose in encouraging and incentivizing further engagement in learning chess through my app." — Implemented the complete version of the achievements feature that allows players to track what they have accomplished/learned  
