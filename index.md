@@ -4,7 +4,7 @@ layout: default                # uses the Cayman's single-column layout
 
 <link rel="stylesheet" href="/assets/css/custom.css"> <!-- optional custom tweaks -->
 
-# 👋 Hi, I’m **Jiajie Qian** — welcome to my EdTech Design Portfolio
+# Hello, I’m **Jiajie Qian** — welcome to my EdTech Design Portfolio
 
 This page distills two key projects from my journey with **CS6460**.
 
