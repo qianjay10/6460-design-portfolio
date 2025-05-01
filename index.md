@@ -6,7 +6,7 @@ layout: default                # uses the Cayman's single-column layout
 
 # 👋 Hi, I’m **Jiajie Qian** — welcome to my EdTech Design Portfolio
 
-This page distills two key projects from my journey with **(CS6460)**.
+This page distills two key projects from my journey with **CS6460**.
 
 ---
 
@@ -15,17 +15,17 @@ This page distills two key projects from my journey with **(CS6460)**.
 ![Group project cover](/assets/images/gp_cover.png)
 
 ### What we built &nbsp;`(TL;DR)`
-* **Problem** — *TODO: 1-sentence problem statement.*
-* **Our solution** — *TODO: headline idea in plain English.*
+* **Problem** — Most big-name MOOCs like Khan Academy treat every learner the same: there’s no quick way to prove what you already know or get material that matches your real starting level, so time is wasted and motivation drops. Our group project focused on enhancing the **Prior Knowledge** aspect of Khan Academy, improving user engagement and learning outcome efficiency.
+* **Our solution** — We re-imagined and redesign the platform with Figma, with a “Prior-Knowledge-first” layer: diagnostic pre-assessments + self-selectable course tiers, a gamified peer arena, and smart revision cues that adapt the path to each learner’s proven skills. 
 
 ### What I built
 * **The game feature** — A gamified approach to community learning, allowing users to benchmark their learned knowledge/prior knowledge against global users in a specific topic. Access by clicking the ***Game Mode*** button at the starting page!
-* **Snapshot** — ![My Feature](/assets/images/game_features.png)
+* **Snapshot** ![My Feature](/assets/images/game_features.png)
 
 ### Presentation Highlights
-- **Outcome 1** — *TODO: 1-line highlight.*  
-- **Outcome 2** — *TODO.*
-- **Outcome 3** — *TODO.*
+- **Outcome 1** — Personalized on-ramp. Learners can jump straight into Beginner, Intermediate, Advanced levels, or let the pre-assessment pick, instead of slogging through redundant lessons.
+- **Outcome 2** — Data-driven placement. The diagnostic quiz identifies gaps and auto-fills a results page that steers users to the right modules to save study time.
+- **Outcome 3** — Sticky engagement. A car-racing-style challenge with leaderboards, levelling rewards, and spaced revision quizzes that turns solo study into a social, goal-oriented community game. Users said it “made practice feel like Mario Kart, not homework.”
 
 | Resource | Link |
 | :------: | :--- |
@@ -76,9 +76,9 @@ This page distills two key projects from my journey with **(CS6460)**.
 
 ### 📫 Contact
 
-- Email: **jay.qian@…**  
-- LinkedIn: [linkedin.com/in/…](https://TODO)
+- Email: **jiajieqian1@gmail.com**  
+- LinkedIn: [https://www.linkedin.com/in/jay-qian/](https://www.linkedin.com/in/jay-qian/)
 
 ---
 
-*© 2025 Your Name. Built with ☕ & Jekyll on GitHub Pages.*
+*© 2025 Jiajie Qian. Built with ☕ & Jekyll on GitHub Pages.*
