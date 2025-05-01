@@ -10,7 +10,9 @@ This page distills two key projects from my journey with **CS6460**.
 
 ---
 
-## 🌟 Group Project — “Better Khan Academy”
+## "🌟 THE GROUP PROJECT 🌟"
+
+## "BETTER KHAN ACADEMY"
 
 ![Group project cover](/assets/images/gp_cover.png)
 
@@ -29,12 +31,14 @@ This page distills two key projects from my journey with **CS6460**.
 
 | Resource | Link |
 | :------: | :--- |
-| 📑 Slides (10 min presentation + Demo video at the end) | [View the deck](https://docs.google.com/presentation/d/19Vx45GSk4PnLu-Zgq7AKpf89tS0W86gj/edit?usp=sharing&ouid=104377980141384171278&rtpof=true&sd=true) |
-| 🖌️ Figma prototype | [Open in Figma](https://www.figma.com/proto/zEMZJRlcoQIOaympr41agZ/4660-Mid-Fidelity-Prototype?node-id=2-10&p=f&t=ynHbvPr5ezs9kegC-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A10&show-proto-sidebar=1) |
+| 📑 "THE SLIDES" (10 min presentation + Demo video at the end) | [View the deck](https://docs.google.com/presentation/d/19Vx45GSk4PnLu-Zgq7AKpf89tS0W86gj/edit?usp=sharing&ouid=104377980141384171278&rtpof=true&sd=true) |
+| 🖌️ "THE FIGMA PROTOTYPE" | [Open in Figma](https://www.figma.com/proto/zEMZJRlcoQIOaympr41agZ/4660-Mid-Fidelity-Prototype?node-id=2-10&p=f&t=ynHbvPr5ezs9kegC-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A10&show-proto-sidebar=1) |
 
 ---
 
-## 🏁 Final Project — “Project Title”
+## ♟️ "THE FINAL PROJECT" ♟️
+
+## "CHESSEDU"
 
 ### Rapid User Test at a Glance
 | Item | Details |
